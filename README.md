@@ -1,9 +1,8 @@
-(https://shorturl.at/bduyI)
-### Hi there 👋, my name is Arif Mohammad Sagor
-#### I am a React Frontend Develope
-![I am a React Frontend Develope]
 
-Passionate React frontend developer with a love for crafting engaging user experiences. Experienced in building scalable and maintainable React applications, I thrive on the challenges of transforming ideas into intuitive interfaces. Avid learner and avid contributor to the React community, I enjoy sharing knowledge and collaborating on open-source projects. With a strong foundation in JavaScript, HTML, and CSS, I bring a deep understanding of React's core principles, state management, and component-based architecture. Constantly exploring new tools and techniques, I strive to deliver elegant solutions that push the boundaries of what's possible in React. Let's create something amazing together!copy/paste and use in your profile.
+### Hi there 👋, my name is Arif Mohammad Sagor
+####  React Frontend Developer
+
+I am a Passionate React frontend developer with a love for crafting engaging user experiences. Experienced in building scalable and maintainable React applications, I thrive on the challenges of transforming ideas into intuitive interfaces. Avid learner and avid contributor to the React community, I enjoy sharing knowledge and collaborating on open-source projects. With a strong foundation in JavaScript, HTML, and CSS, I bring a deep understanding of React's core principles, state management, and component-based architecture. Constantly exploring new tools and techniques, I strive to deliver elegant solutions that push the boundaries of what's possible in React. Let's create something amazing together!copy/paste and use in your profile.
 
 Skills:   REACT / JS / HTML / CSS/TAILWINDCSS/BOOTSTRAP/EXPRESS JS/ MONGOD
 
