@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Mohammad Sagor</h1>
 <h3 align="center">A passionate frontend React developer from Bangladesh</h3>
 
@@ -12,7 +11,7 @@
 
 - 📫 How to reach me **mdsagor0321@gmail.com**
 
-- 📄 Know about my experiences [https://l.facebook.com/l.php?u=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1_3vKrUJuu_fZe4mSHY1H9g-2kw8NR7yr%2Fview%3Fusp%3Dshare_link%26fbclid%3DIwAR0ffI0KrdQl4U9ZziwIV9PqIRHCjnMEDF-2gxBYx59K-Z7M4q20C43MWr4&h=AT3EoNqozoNFy4jaXv3I0QM9UdDbVCH9FXRkDT39m_NvrEvId_V9_cybbXTgCw2JVPSBvY_GU_YbkAf9ubCCdsCC90K8rhcOCcyL6ubzdvN_tiar5Z4YcrXJn-yIEb6ThoDOAg](https://l.facebook.com/l.php?u=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1_3vKrUJuu_fZe4mSHY1H9g-2kw8NR7yr%2Fview%3Fusp%3Dshare_link%26fbclid%3DIwAR0ffI0KrdQl4U9ZziwIV9PqIRHCjnMEDF-2gxBYx59K-Z7M4q20C43MWr4&h=AT3EoNqozoNFy4jaXv3I0QM9UdDbVCH9FXRkDT39m_NvrEvId_V9_cybbXTgCw2JVPSBvY_GU_YbkAf9ubCCdsCC90K8rhcOCcyL6ubzdvN_tiar5Z4YcrXJn-yIEb6ThoDOAg)
+- 📄 Know about my experiences [https://shorturl.at/axALP](https://shorturl.at/axALP)
 
 - ⚡ Fun fact **I think I am introvert type**
 
@@ -30,4 +29,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arif-mohammad-sagor&show_icons=true&locale=en" alt="arif-mohammad-sagor" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arif-mohammad-sagor&" alt="arif-mohammad-sagor" /></p>
-
